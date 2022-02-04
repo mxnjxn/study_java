@@ -20,7 +20,6 @@ public class FloatDoubleExample {
 		System.out.println("var5: " + var5);
 		
 		//e 사용하기
-		
 		int var6 = 3000000;
 		double var7 = 3e6; // 소숫점 첫째 짜리 까지 표시됨. 
 		float var8 = 3e6F;  // 소숫점 첫째 짜리 까지 표시됨. 
