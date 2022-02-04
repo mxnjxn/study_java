@@ -6,7 +6,10 @@ public class LongExample {
 		// TODO Auto-generated method stub
 		
 		long var1 =10;
-		long var2 =20L;  // int 값을 넘어가는 순간 부터는 L 를 넣지 않은면 error 가 난다. 
+		long var2 =20L;  
+		
+		// int 값을 넘어가는 순간 부터는 L 를 넣지 않은면 error 가 난다. 
+		// 편의상 long type은 기본적으로 L 을 넣어주자. 
 		// long var3 =100000000000000000; // compile error
 		long var4 =100000000000000000L;
 		
