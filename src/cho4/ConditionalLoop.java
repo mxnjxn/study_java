@@ -1,6 +1,6 @@
-package cho4.copy;
+package cho4;
 
-public class ConditionLoop {
+public class ConditionalLoop {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
