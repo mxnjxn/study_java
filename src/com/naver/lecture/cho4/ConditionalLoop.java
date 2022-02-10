@@ -1,4 +1,4 @@
-package cho4;
+package com.naver.lecture.cho4;
 
 public class ConditionalLoop {
 
