@@ -9,12 +9,12 @@ public class StringEqualsExample {
 		String strVar2= "최민준";
 		
 		if (strVar1 == strVar2) {
-			System.out.println("strVar1 과 strVar2는 참조가 같음");
+			System.out.println("strVar1 과 strVar2는 참조가 같음"); //주소
 		} else {
 			System.out.println("strVar1 과 strVar2는 참조가 다름");
 		}
 		
-		if(strVar1.equals(strVar2)) {
+		if(strVar1.equals(strVar2)) {                           //문자열
 			System.out.println("strVar1과 strVar2는 문자열이 같음.");
 		}
 		
