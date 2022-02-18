@@ -1,4 +1,4 @@
-package com.naver.lecture.ch06;
+package com.naver.lecture.ch06exc;
 
 public class Delivery {
 	String restaurant_name= "엽기 떡볶이";

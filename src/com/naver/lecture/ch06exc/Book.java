@@ -1,4 +1,4 @@
-package com.naver.lecture.ch06;
+package com.naver.lecture.ch06exc;
 
 public class Book {
 	String Company_name= "";
@@ -26,6 +26,11 @@ public class Book {
 	
 	// 책 이름 조회
 	
+	//저장
+	//수정
+	//삭제
+	//목록(조회)
+	//총 목록 개수
 	
 	
 }

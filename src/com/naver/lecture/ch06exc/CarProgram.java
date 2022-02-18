@@ -1,4 +1,4 @@
-package com.naver.lecture.ch06;
+package com.naver.lecture.ch06exc;
 
 public class CarProgram { // 실제 프로그램 돌리는 class
 
