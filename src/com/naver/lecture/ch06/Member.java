@@ -11,5 +11,26 @@ public class Member {
 	String profession = "student";
 	String favorite_color = "purple";
 	Date ifmmDob;
+	
+	// method
+	
+	//중복,저장
+		public void save( ) {
+			
+		}
+	
+	// 삭제
+		public void save( ) {
+			
+		}
+	
+	//수정
+	
+	
+	//로그인
+	
+	
+	
+	//로그 아웃
 			
 }
